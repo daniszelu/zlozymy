@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zlozymy/static/css/main.ef2e4a60.css",
+    "main.js": "/zlozymy/static/js/main.c7e24160.js",
+    "index.html": "/zlozymy/index.html",
+    "main.ef2e4a60.css.map": "/zlozymy/static/css/main.ef2e4a60.css.map",
+    "main.c7e24160.js.map": "/zlozymy/static/js/main.c7e24160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef2e4a60.css",
+    "static/js/main.c7e24160.js"
+  ]
+}
